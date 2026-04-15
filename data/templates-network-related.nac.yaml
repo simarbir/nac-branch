@@ -29,8 +29,7 @@ meraki:
         time_zone: ${time_zone}
         notes: ${network_notes}
         tags:
-          - small_branch
-          - ubac
+          - ubac-s
       #
       # The below code does the following:
       # 
